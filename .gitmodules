@@ -55,3 +55,6 @@
 [submodule "18-html-to-pdf"]
 	path = 18-html-to-pdf
 	url = https://github.com/kruzkasu223/18-html-to-pdf
+[submodule "19-link-shortner"]
+	path = 19-link-shortner
+	url = https://github.com/kruzkasu223/19-link-shortner

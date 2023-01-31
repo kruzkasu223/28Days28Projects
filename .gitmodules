@@ -58,3 +58,6 @@
 [submodule "19-link-shortner"]
 	path = 19-link-shortner
 	url = https://github.com/kruzkasu223/19-link-shortner
+[submodule "20-minimal-ecommerce"]
+	path = 20-minimal-ecommerce
+	url = https://github.com/kruzkasu223/20-minimal-ecommerce

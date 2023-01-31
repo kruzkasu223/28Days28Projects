@@ -52,3 +52,6 @@
 [submodule "17-custom-pagination"]
 	path = 17-custom-pagination
 	url = https://github.com/kruzkasu223/17-custom-pagination
+[submodule "18-html-to-pdf"]
+	path = 18-html-to-pdf
+	url = https://github.com/kruzkasu223/18-html-to-pdf

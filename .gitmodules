@@ -40,3 +40,6 @@
 [submodule "13-image-gallery"]
 	path = 13-image-gallery
 	url = https://github.com/kruzkasu223/13-image-gallery
+[submodule "14-pomodoro"]
+	path = 14-pomodoro
+	url = https://github.com/kruzkasu223/14-pomodoro

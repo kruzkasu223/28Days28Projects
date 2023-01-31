@@ -49,3 +49,6 @@
 [submodule "16-notes"]
 	path = 16-notes
 	url = https://github.com/kruzkasu223/16-notes
+[submodule "17-custom-pagination"]
+	path = 17-custom-pagination
+	url = https://github.com/kruzkasu223/17-custom-pagination

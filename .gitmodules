@@ -4,3 +4,6 @@
 [submodule "01-auto-complete-input"]
 	path = 01-auto-complete-input
 	url = https://github.com/kruzkasu223/01-auto-complete-input
+[submodule "02-analogue-clock"]
+	path = 02-analogue-clock
+	url = https://github.com/kruzkasu223/02-analogue-clock

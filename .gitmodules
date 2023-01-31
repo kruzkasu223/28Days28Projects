@@ -25,3 +25,6 @@
 [submodule "08-currency-converter"]
 	path = 08-currency-converter
 	url = https://github.com/kruzkasu223/08-currency-converter
+[submodule "09-weather"]
+	path = 09-weather
+	url = https://github.com/kruzkasu223/09-weather

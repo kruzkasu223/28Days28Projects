@@ -10,3 +10,6 @@
 [submodule "03-stopwatch"]
 	path = 03-stopwatch
 	url = https://github.com/kruzkasu223/03-stopwatch
+[submodule "04-higher-order-component"]
+	path = 04-higher-order-component
+	url = https://github.com/kruzkasu223/04-higher-order-component

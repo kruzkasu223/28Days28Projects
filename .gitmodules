@@ -43,3 +43,6 @@
 [submodule "14-pomodoro"]
 	path = 14-pomodoro
 	url = https://github.com/kruzkasu223/14-pomodoro
+[submodule "15-quiz"]
+	path = 15-quiz
+	url = https://github.com/kruzkasu223/15-quiz

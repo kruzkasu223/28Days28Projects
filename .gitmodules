@@ -19,3 +19,6 @@
 [submodule "06-password-generator"]
 	path = 06-password-generator
 	url = https://github.com/kruzkasu223/06-password-generator
+[submodule "07-css-gradient-generator"]
+	path = 07-css-gradient-generator
+	url = https://github.com/kruzkasu223/07-css-gradient-generator

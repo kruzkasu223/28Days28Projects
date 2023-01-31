@@ -67,3 +67,6 @@
 [submodule "22-tmdb-designed"]
 	path = 22-tmdb-designed
 	url = https://github.com/kruzkasu223/22-tmdb-designed
+[submodule "23-tree-structure"]
+	path = 23-tree-structure
+	url = https://github.com/kruzkasu223/23-tree-structure

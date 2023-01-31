@@ -28,3 +28,6 @@
 [submodule "09-weather"]
 	path = 09-weather
 	url = https://github.com/kruzkasu223/09-weather
+[submodule "10-navigation-interceptor-nextjs"]
+	path = 10-navigation-interceptor-nextjs
+	url = https://github.com/kruzkasu223/10-navigation-interceptor-nextjs

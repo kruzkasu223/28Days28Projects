@@ -31,3 +31,6 @@
 [submodule "10-navigation-interceptor-nextjs"]
 	path = 10-navigation-interceptor-nextjs
 	url = https://github.com/kruzkasu223/10-navigation-interceptor-nextjs
+[submodule "11-kanban-board"]
+	path = 11-kanban-board
+	url = https://github.com/kruzkasu223/11-kanban-board

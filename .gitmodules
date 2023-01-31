@@ -37,3 +37,6 @@
 [submodule "12-infinite-scrolling"]
 	path = 12-infinite-scrolling
 	url = https://github.com/kruzkasu223/12-infinite-scrolling
+[submodule "13-image-gallery"]
+	path = 13-image-gallery
+	url = https://github.com/kruzkasu223/13-image-gallery

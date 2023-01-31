@@ -61,3 +61,6 @@
 [submodule "20-minimal-ecommerce"]
 	path = 20-minimal-ecommerce
 	url = https://github.com/kruzkasu223/20-minimal-ecommerce
+[submodule "21-crypto-price"]
+	path = 21-crypto-price
+	url = https://github.com/kruzkasu223/21-crypto-price

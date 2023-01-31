@@ -79,3 +79,6 @@
 [submodule "26-date-formatter-cli"]
 	path = 26-date-formatter-cli
 	url = https://github.com/kruzkasu223/26-date-formatter-cli
+[submodule "27-hacker-news"]
+	path = 27-hacker-news
+	url = https://github.com/kruzkasu223/27-hacker-news

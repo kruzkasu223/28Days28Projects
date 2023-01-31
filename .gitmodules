@@ -13,3 +13,6 @@
 [submodule "04-higher-order-component"]
 	path = 04-higher-order-component
 	url = https://github.com/kruzkasu223/04-higher-order-component
+[submodule "05-screen-recorder"]
+	path = 05-screen-recorder
+	url = https://github.com/kruzkasu223/05-screen-recorder

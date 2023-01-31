@@ -34,3 +34,6 @@
 [submodule "11-kanban-board"]
 	path = 11-kanban-board
 	url = https://github.com/kruzkasu223/11-kanban-board
+[submodule "12-infinite-scrolling"]
+	path = 12-infinite-scrolling
+	url = https://github.com/kruzkasu223/12-infinite-scrolling

@@ -22,3 +22,6 @@
 [submodule "07-css-gradient-generator"]
 	path = 07-css-gradient-generator
 	url = https://github.com/kruzkasu223/07-css-gradient-generator
+[submodule "08-currency-converter"]
+	path = 08-currency-converter
+	url = https://github.com/kruzkasu223/08-currency-converter

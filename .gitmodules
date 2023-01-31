@@ -73,3 +73,6 @@
 [submodule "24-form-validation"]
 	path = 24-form-validation
 	url = https://github.com/kruzkasu223/24-form-validation
+[submodule "25-parallax"]
+	path = 25-parallax
+	url = https://github.com/kruzkasu223/25-parallax

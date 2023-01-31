@@ -46,3 +46,6 @@
 [submodule "15-quiz"]
 	path = 15-quiz
 	url = https://github.com/kruzkasu223/15-quiz
+[submodule "16-notes"]
+	path = 16-notes
+	url = https://github.com/kruzkasu223/16-notes

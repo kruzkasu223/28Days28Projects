@@ -76,3 +76,6 @@
 [submodule "25-parallax"]
 	path = 25-parallax
 	url = https://github.com/kruzkasu223/25-parallax
+[submodule "26-date-formatter-cli"]
+	path = 26-date-formatter-cli
+	url = https://github.com/kruzkasu223/26-date-formatter-cli

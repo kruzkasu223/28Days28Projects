@@ -64,3 +64,6 @@
 [submodule "21-crypto-price"]
 	path = 21-crypto-price
 	url = https://github.com/kruzkasu223/21-crypto-price
+[submodule "22-tmdb-designed"]
+	path = 22-tmdb-designed
+	url = https://github.com/kruzkasu223/22-tmdb-designed

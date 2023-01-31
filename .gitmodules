@@ -1,0 +1,3 @@
+[submodule "00-custom-drag-and-drop"]
+	path = 00-custom-drag-and-drop
+	url = https://github.com/kruzkasu223/00-custom-drag-and-drop

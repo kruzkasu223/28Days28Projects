@@ -7,3 +7,6 @@
 [submodule "02-analogue-clock"]
 	path = 02-analogue-clock
 	url = https://github.com/kruzkasu223/02-analogue-clock
+[submodule "03-stopwatch"]
+	path = 03-stopwatch
+	url = https://github.com/kruzkasu223/03-stopwatch

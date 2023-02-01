@@ -4,7 +4,7 @@
 
 | index | project.slug                  | project.isCompleted |                     project.demo.link                      |                             project.code.link                             |
 | ----: | ----------------------------- | :-----------------: | :--------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|   00. | custom-drag-and-drop          |         :x:         |     [:link:](https://00-custom-drag-and-drop.kruz.me)      |     [:link:](https://github.com/kruzkasu223/00-custom-drag-and-drop)      |
+|   00. | custom-drag-and-drop          | :heavy_check_mark:  |     [:link:](https://00-custom-drag-and-drop.kruz.me)      |     [:link:](https://github.com/kruzkasu223/00-custom-drag-and-drop)      |
 |   01. | auto-complete-input           |         :x:         |      [:link:](https://01-auto-complete-input.kruz.me)      |      [:link:](https://github.com/kruzkasu223/01-auto-complete-input)      |
 |   02. | analogue-clock                |         :x:         |        [:link:](https://02-analogue-clock.kruz.me)         |        [:link:](https://github.com/kruzkasu223/02-analogue-clock)         |
 |   03. | stopwatch                     |         :x:         |           [:link:](https://03-stopwatch.kruz.me)           |           [:link:](https://github.com/kruzkasu223/03-stopwatch)           |

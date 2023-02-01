@@ -1,5 +1,7 @@
 # #28Days28Projects
 
+### 28 Projects in 28 Days, Elevating My Skills with a Month of Non-Stop Coding
+
 | index | project.slug                  | project.isCompleted |                     project.demo.link                      |                             project.code.link                             |
 | ----: | ----------------------------- | :-----------------: | :--------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |   00. | custom-drag-and-drop          |         :x:         |     [:link:](https://00-custom-drag-and-drop.kruz.me)      |     [:link:](https://github.com/kruzkasu223/00-custom-drag-and-drop)      |

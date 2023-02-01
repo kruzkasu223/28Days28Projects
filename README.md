@@ -1,30 +1,32 @@
 # #28Days28Projects
 
-0. custom-drag-and-drop | [demo](https://00-custom-drag-and-drop.kruz.me) | [code](https://github.com/kruzkasu223/00-custom-drag-and-drop)
-1. auto-complete-input | [demo](https://01-auto-complete-input.kruz.me) | [code](https://github.com/kruzkasu223/01-auto-complete-input)
-1. analogue-clock | [demo](https://02-analogue-clock.kruz.me) | [code](https://github.com/kruzkasu223/02-analogue-clock)
-1. stopwatch | [demo](https://03-stopwatch.kruz.me) | [code](https://github.com/kruzkasu223/03-stopwatch)
-1. higher-order-component | [demo](https://04-higher-order-component.kruz.me) | [code](https://github.com/kruzkasu223/04-higher-order-component)
-1. screen-recorder | [demo](https://05-screen-recorder.kruz.me) | [code](https://github.com/kruzkasu223/05-screen-recorder)
-1. password-generator | [demo](https://06-password-generator.kruz.me) | [code](https://github.com/kruzkasu223/06-password-generator)
-1. css-gradient-generator | [demo](https://07-css-gradient-generator.kruz.me) | [code](https://github.com/kruzkasu223/07-css-gradient-generator)
-1. currency-converter | [demo](https://08-currency-converter.kruz.me) | [code](https://github.com/kruzkasu223/08-currency-converter)
-1. weather | [demo](https://09-weather.kruz.me) | [code](https://github.com/kruzkasu223/09-weather)
-1. navigation-interceptor-nextjs | [demo](https://10-navigation-interceptor-nextjs.kruz.me) | [code](https://github.com/kruzkasu223/10-navigation-interceptor-nextjs)
-1. kanban-board | [demo](https://11-kanban-board.kruz.me) | [code](https://github.com/kruzkasu223/11-kanban-board)
-1. infinite-scrolling | [demo](https://12-infinite-scrolling.kruz.me) | [code](https://github.com/kruzkasu223/12-infinite-scrolling)
-1. image-gallery | [demo](https://13-image-gallery.kruz.me) | [code](https://github.com/kruzkasu223/13-image-gallery)
-1. pomodoro | [demo](https://14-pomodoro.kruz.me) | [code](https://github.com/kruzkasu223/14-pomodoro)
-1. quiz | [demo](https://15-quiz.kruz.me) | [code](https://github.com/kruzkasu223/15-quiz)
-1. notes | [demo](https://16-notes.kruz.me) | [code](https://github.com/kruzkasu223/16-notes)
-1. custom-pagination | [demo](https://17-custom-pagination.kruz.me) | [code](https://github.com/kruzkasu223/17-custom-pagination)
-1. html-to-pdf | [demo](https://18-html-to-pdf.kruz.me) | [code](https://github.com/kruzkasu223/18-html-to-pdf)
-1. link-shortner | [demo](https://19-link-shortner.kruz.me) | [code](https://github.com/kruzkasu223/19-link-shortner)
-1. minimal-ecommerce | [demo](https://20-minimal-ecommerce.kruz.me) | [code](https://github.com/kruzkasu223/20-minimal-ecommerce)
-1. crypto-price | [demo](https://21-crypto-price.kruz.me) | [code](https://github.com/kruzkasu223/21-crypto-price)
-1. tmdb-designed | [demo](https://22-tmdb-designed.kruz.me) | [code](https://github.com/kruzkasu223/22-tmdb-designed)
-1. tree-structure | [demo](https://23-tree-structure.kruz.me) | [code](https://github.com/kruzkasu223/23-tree-structure)
-1. form-validation | [demo](https://24-form-validation.kruz.me) | [code](https://github.com/kruzkasu223/24-form-validation)
-1. parallax | [demo](https://25-parallax.kruz.me) | [code](https://github.com/kruzkasu223/25-parallax)
-1. date-formatter | [demo](https://26-date-formatter.kruz.me) | [code](https://github.com/kruzkasu223/26-date-formatter)
-1. hacker-news | [demo](https://27-hacker-news.kruz.me) | [code](https://github.com/kruzkasu223/27-hacker-news)
+| index | project.slug                  | project.isCompleted |                     project.demo.link                      |                             project.code.link                             |
+| ----: | ----------------------------- | :-----------------: | :--------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|   00. | custom-drag-and-drop          |         :x:         |     [:link:](https://00-custom-drag-and-drop.kruz.me)      |     [:link:](https://github.com/kruzkasu223/00-custom-drag-and-drop)      |
+|   01. | auto-complete-input           |         :x:         |      [:link:](https://01-auto-complete-input.kruz.me)      |      [:link:](https://github.com/kruzkasu223/01-auto-complete-input)      |
+|   02. | analogue-clock                |         :x:         |        [:link:](https://02-analogue-clock.kruz.me)         |        [:link:](https://github.com/kruzkasu223/02-analogue-clock)         |
+|   03. | stopwatch                     |         :x:         |           [:link:](https://03-stopwatch.kruz.me)           |           [:link:](https://github.com/kruzkasu223/03-stopwatch)           |
+|   04. | higher-order-component        |         :x:         |    [:link:](https://04-higher-order-component.kruz.me)     |    [:link:](https://github.com/kruzkasu223/04-higher-order-component)     |
+|   05. | screen-recorder               |         :x:         |        [:link:](https://05-screen-recorder.kruz.me)        |        [:link:](https://github.com/kruzkasu223/05-screen-recorder)        |
+|   06. | password-generator            |         :x:         |      [:link:](https://06-password-generator.kruz.me)       |      [:link:](https://github.com/kruzkasu223/06-password-generator)       |
+|   07. | css-gradient-generator        |         :x:         |    [:link:](https://07-css-gradient-generator.kruz.me)     |    [:link:](https://github.com/kruzkasu223/07-css-gradient-generator)     |
+|   08. | currency-converter            |         :x:         |      [:link:](https://08-currency-converter.kruz.me)       |      [:link:](https://github.com/kruzkasu223/08-currency-converter)       |
+|   09. | weather                       |         :x:         |            [:link:](https://09-weather.kruz.me)            |            [:link:](https://github.com/kruzkasu223/09-weather)            |
+|   10. | navigation-interceptor-nextjs |         :x:         | [:link:](https://10-navigation-interceptor-nextjs.kruz.me) | [:link:](https://github.com/kruzkasu223/10-navigation-interceptor-nextjs) |
+|   11. | kanban-board                  |         :x:         |         [:link:](https://11-kanban-board.kruz.me)          |         [:link:](https://github.com/kruzkasu223/11-kanban-board)          |
+|   12. | infinite-scrolling            |         :x:         |      [:link:](https://12-infinite-scrolling.kruz.me)       |      [:link:](https://github.com/kruzkasu223/12-infinite-scrolling)       |
+|   13. | image-gallery                 |         :x:         |         [:link:](https://13-image-gallery.kruz.me)         |         [:link:](https://github.com/kruzkasu223/13-image-gallery)         |
+|   14. | pomodoro                      |         :x:         |           [:link:](https://14-pomodoro.kruz.me)            |           [:link:](https://github.com/kruzkasu223/14-pomodoro)            |
+|   15. | quiz                          |         :x:         |             [:link:](https://15-quiz.kruz.me)              |             [:link:](https://github.com/kruzkasu223/15-quiz)              |
+|   16. | notes                         |         :x:         |             [:link:](https://16-notes.kruz.me)             |             [:link:](https://github.com/kruzkasu223/16-notes)             |
+|   17. | custom-pagination             |         :x:         |       [:link:](https://17-custom-pagination.kruz.me)       |       [:link:](https://github.com/kruzkasu223/17-custom-pagination)       |
+|   18. | html-to-pdf                   |         :x:         |          [:link:](https://18-html-to-pdf.kruz.me)          |          [:link:](https://github.com/kruzkasu223/18-html-to-pdf)          |
+|   19. | link-shortner                 |         :x:         |         [:link:](https://19-link-shortner.kruz.me)         |         [:link:](https://github.com/kruzkasu223/19-link-shortner)         |
+|   20. | minimal-ecommerce             |         :x:         |       [:link:](https://20-minimal-ecommerce.kruz.me)       |       [:link:](https://github.com/kruzkasu223/20-minimal-ecommerce)       |
+|   21. | crypto-price                  |         :x:         |         [:link:](https://21-crypto-price.kruz.me)          |         [:link:](https://github.com/kruzkasu223/21-crypto-price)          |
+|   22. | tmdb-designed                 |         :x:         |         [:link:](https://22-tmdb-designed.kruz.me)         |         [:link:](https://github.com/kruzkasu223/22-tmdb-designed)         |
+|   23. | tree-structure                |         :x:         |        [:link:](https://23-tree-structure.kruz.me)         |        [:link:](https://github.com/kruzkasu223/23-tree-structure)         |
+|   24. | form-validation               |         :x:         |        [:link:](https://24-form-validation.kruz.me)        |        [:link:](https://github.com/kruzkasu223/24-form-validation)        |
+|   25. | parallax                      |         :x:         |           [:link:](https://25-parallax.kruz.me)            |           [:link:](https://github.com/kruzkasu223/25-parallax)            |
+|   26. | date-formatter                |         :x:         |        [:link:](https://26-date-formatter.kruz.me)         |        [:link:](https://github.com/kruzkasu223/26-date-formatter)         |
+|   27. | hacker-news                   |         :x:         |          [:link:](https://27-hacker-news.kruz.me)          |          [:link:](https://github.com/kruzkasu223/27-hacker-news)          |

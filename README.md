@@ -8,7 +8,7 @@
 |   01. | auto-complete-input           | :heavy_check_mark:  |      [:link:](https://01-auto-complete-input.kruz.me)      |      [:link:](https://github.com/kruzkasu223/01-auto-complete-input)      |
 |   02. | analogue-clock                | :heavy_check_mark:  |        [:link:](https://02-analogue-clock.kruz.me)         |        [:link:](https://github.com/kruzkasu223/02-analogue-clock)         |
 |   03. | stopwatch                     | :heavy_check_mark:  |           [:link:](https://03-stopwatch.kruz.me)           |           [:link:](https://github.com/kruzkasu223/03-stopwatch)           |
-|   04. | higher-order-component        |         :x:         |    [:link:](https://04-higher-order-component.kruz.me)     |    [:link:](https://github.com/kruzkasu223/04-higher-order-component)     |
+|   04. | higher-order-component        | :heavy_check_mark:  |    [:link:](https://04-higher-order-component.kruz.me)     |    [:link:](https://github.com/kruzkasu223/04-higher-order-component)     |
 |   05. | screen-recorder               |         :x:         |        [:link:](https://05-screen-recorder.kruz.me)        |        [:link:](https://github.com/kruzkasu223/05-screen-recorder)        |
 |   06. | password-generator            |         :x:         |      [:link:](https://06-password-generator.kruz.me)       |      [:link:](https://github.com/kruzkasu223/06-password-generator)       |
 |   07. | css-gradient-generator        |         :x:         |    [:link:](https://07-css-gradient-generator.kruz.me)     |    [:link:](https://github.com/kruzkasu223/07-css-gradient-generator)     |

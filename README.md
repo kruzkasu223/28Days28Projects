@@ -12,7 +12,7 @@
 |   05. | screen-recorder               | :heavy_check_mark:  |        [:link:](https://05-screen-recorder.kruz.me)        |        [:link:](https://github.com/kruzkasu223/05-screen-recorder)        |
 |   06. | password-generator            | :heavy_check_mark:  |      [:link:](https://06-password-generator.kruz.me)       |      [:link:](https://github.com/kruzkasu223/06-password-generator)       |
 |   07. | css-gradient-generator        | :heavy_check_mark:  |    [:link:](https://07-css-gradient-generator.kruz.me)     |    [:link:](https://github.com/kruzkasu223/07-css-gradient-generator)     |
-|   08. | currency-converter            |         :x:         |      [:link:](https://08-currency-converter.kruz.me)       |      [:link:](https://github.com/kruzkasu223/08-currency-converter)       |
+|   08. | currency-converter            | :heavy_check_mark:  |      [:link:](https://08-currency-converter.kruz.me)       |      [:link:](https://github.com/kruzkasu223/08-currency-converter)       |
 |   09. | weather                       |         :x:         |            [:link:](https://09-weather.kruz.me)            |            [:link:](https://github.com/kruzkasu223/09-weather)            |
 |   10. | navigation-interceptor-nextjs |         :x:         | [:link:](https://10-navigation-interceptor-nextjs.kruz.me) | [:link:](https://github.com/kruzkasu223/10-navigation-interceptor-nextjs) |
 |   11. | kanban-board                  |         :x:         |         [:link:](https://11-kanban-board.kruz.me)          |         [:link:](https://github.com/kruzkasu223/11-kanban-board)          |

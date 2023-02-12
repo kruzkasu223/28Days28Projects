@@ -15,7 +15,7 @@
 |   08. | currency-converter            | :heavy_check_mark:  |      [:link:](https://08-currency-converter.kruz.me)       |      [:link:](https://github.com/kruzkasu223/08-currency-converter)       |
 |   09. | weather                       | :heavy_check_mark:  |            [:link:](https://09-weather.kruz.me)            |            [:link:](https://github.com/kruzkasu223/09-weather)            |
 |   10. | navigation-interceptor-nextjs | :heavy_check_mark:  | [:link:](https://10-navigation-interceptor-nextjs.kruz.me) | [:link:](https://github.com/kruzkasu223/10-navigation-interceptor-nextjs) |
-|   11. | kanban-board                  |         :x:         |         [:link:](https://11-kanban-board.kruz.me)          |         [:link:](https://github.com/kruzkasu223/11-kanban-board)          |
+|   11. | kanban-board                  | :heavy_check_mark:  |         [:link:](https://11-kanban-board.kruz.me)          |         [:link:](https://github.com/kruzkasu223/11-kanban-board)          |
 |   12. | infinite-scrolling            |         :x:         |      [:link:](https://12-infinite-scrolling.kruz.me)       |      [:link:](https://github.com/kruzkasu223/12-infinite-scrolling)       |
 |   13. | image-gallery                 |         :x:         |         [:link:](https://13-image-gallery.kruz.me)         |         [:link:](https://github.com/kruzkasu223/13-image-gallery)         |
 |   14. | pomodoro                      |         :x:         |           [:link:](https://14-pomodoro.kruz.me)            |           [:link:](https://github.com/kruzkasu223/14-pomodoro)            |

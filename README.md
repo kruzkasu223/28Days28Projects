@@ -17,7 +17,7 @@
 |   10. | navigation-interceptor-nextjs | :heavy_check_mark:  | [:link:](https://10-navigation-interceptor-nextjs.kruz.me) | [:link:](https://github.com/kruzkasu223/10-navigation-interceptor-nextjs) |
 |   11. | kanban-board                  | :heavy_check_mark:  |         [:link:](https://11-kanban-board.kruz.me)          |         [:link:](https://github.com/kruzkasu223/11-kanban-board)          |
 |   12. | infinite-scrolling            | :heavy_check_mark:  |      [:link:](https://12-infinite-scrolling.kruz.me)       |      [:link:](https://github.com/kruzkasu223/12-infinite-scrolling)       |
-|   13. | image-gallery                 |         :x:         |         [:link:](https://13-image-gallery.kruz.me)         |         [:link:](https://github.com/kruzkasu223/13-image-gallery)         |
+|   13. | image-gallery                 | :heavy_check_mark:  |         [:link:](https://13-image-gallery.kruz.me)         |         [:link:](https://github.com/kruzkasu223/13-image-gallery)         |
 |   14. | pomodoro                      |         :x:         |           [:link:](https://14-pomodoro.kruz.me)            |           [:link:](https://github.com/kruzkasu223/14-pomodoro)            |
 |   15. | quiz                          |         :x:         |             [:link:](https://15-quiz.kruz.me)              |             [:link:](https://github.com/kruzkasu223/15-quiz)              |
 |   16. | notes                         |         :x:         |             [:link:](https://16-notes.kruz.me)             |             [:link:](https://github.com/kruzkasu223/16-notes)             |

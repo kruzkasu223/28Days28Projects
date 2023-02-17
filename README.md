@@ -20,7 +20,7 @@
 |   13. | image-gallery                 | :heavy_check_mark:  |         [:link:](https://13-image-gallery.kruz.me)         |         [:link:](https://github.com/kruzkasu223/13-image-gallery)         |
 |   14. | pomodoro                      | :heavy_check_mark:  |           [:link:](https://14-pomodoro.kruz.me)            |           [:link:](https://github.com/kruzkasu223/14-pomodoro)            |
 |   15. | quiz                          | :heavy_check_mark:  |             [:link:](https://15-quiz.kruz.me)              |             [:link:](https://github.com/kruzkasu223/15-quiz)              |
-|   16. | notes                         |         :x:         |             [:link:](https://16-notes.kruz.me)             |             [:link:](https://github.com/kruzkasu223/16-notes)             |
+|   16. | notes                         | :heavy_check_mark:  |             [:link:](https://16-notes.kruz.me)             |             [:link:](https://github.com/kruzkasu223/16-notes)             |
 |   17. | custom-pagination             |         :x:         |       [:link:](https://17-custom-pagination.kruz.me)       |       [:link:](https://github.com/kruzkasu223/17-custom-pagination)       |
 |   18. | html-to-pdf                   |         :x:         |          [:link:](https://18-html-to-pdf.kruz.me)          |          [:link:](https://github.com/kruzkasu223/18-html-to-pdf)          |
 |   19. | link-shortner                 |         :x:         |         [:link:](https://19-link-shortner.kruz.me)         |         [:link:](https://github.com/kruzkasu223/19-link-shortner)         |

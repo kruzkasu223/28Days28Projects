@@ -26,7 +26,7 @@
 |   19. | link-shortner                 | :heavy_check_mark:  |         [:link:](https://19-link-shortner.kruz.me)         |         [:link:](https://github.com/kruzkasu223/19-link-shortner)         |
 |   20. | minimal-ecommerce             | :heavy_check_mark:  |       [:link:](https://20-minimal-ecommerce.kruz.me)       |       [:link:](https://github.com/kruzkasu223/20-minimal-ecommerce)       |
 |   21. | crypto-price                  | :heavy_check_mark:  |         [:link:](https://21-crypto-price.kruz.me)          |         [:link:](https://github.com/kruzkasu223/21-crypto-price)          |
-|   22. | tmdb-designed                 |         :x:         |         [:link:](https://22-tmdb-designed.kruz.me)         |         [:link:](https://github.com/kruzkasu223/22-tmdb-designed)         |
+|   22. | tmdb-designed                 | :heavy_check_mark:  |         [:link:](https://22-tmdb-designed.kruz.me)         |         [:link:](https://github.com/kruzkasu223/22-tmdb-designed)         |
 |   23. | tree-structure                |         :x:         |        [:link:](https://23-tree-structure.kruz.me)         |        [:link:](https://github.com/kruzkasu223/23-tree-structure)         |
 |   24. | form-validation               |         :x:         |        [:link:](https://24-form-validation.kruz.me)        |        [:link:](https://github.com/kruzkasu223/24-form-validation)        |
 |   25. | parallax                      |         :x:         |           [:link:](https://25-parallax.kruz.me)            |           [:link:](https://github.com/kruzkasu223/25-parallax)            |

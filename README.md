@@ -28,7 +28,7 @@
 |   21. | crypto-price                  | :heavy_check_mark:  |         [:link:](https://21-crypto-price.kruz.me)          |         [:link:](https://github.com/kruzkasu223/21-crypto-price)          |
 |   22. | tmdb-designed                 | :heavy_check_mark:  |         [:link:](https://22-tmdb-designed.kruz.me)         |         [:link:](https://github.com/kruzkasu223/22-tmdb-designed)         |
 |   23. | tree-structure                | :heavy_check_mark:  |        [:link:](https://23-tree-structure.kruz.me)         |        [:link:](https://github.com/kruzkasu223/23-tree-structure)         |
-|   24. | form-validation               |         :x:         |        [:link:](https://24-form-validation.kruz.me)        |        [:link:](https://github.com/kruzkasu223/24-form-validation)        |
+|   24. | form-validation               | :heavy_check_mark:  |        [:link:](https://24-form-validation.kruz.me)        |        [:link:](https://github.com/kruzkasu223/24-form-validation)        |
 |   25. | parallax                      |         :x:         |           [:link:](https://25-parallax.kruz.me)            |           [:link:](https://github.com/kruzkasu223/25-parallax)            |
 |   26. | date-formatter                |         :x:         |        [:link:](https://26-date-formatter.kruz.me)         |        [:link:](https://github.com/kruzkasu223/26-date-formatter)         |
 |   27. | hacker-news                   |         :x:         |          [:link:](https://27-hacker-news.kruz.me)          |          [:link:](https://github.com/kruzkasu223/27-hacker-news)          |

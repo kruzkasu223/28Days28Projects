@@ -2,7 +2,7 @@
 
 # used this script to automate creation of all the project directory and initialize git and setup github repo
 
-cd '/home/kruz/kruz/code/28Days28Projects'
+cd '/home/kruz/kruz/code/#28Days28Projects'
 pwd
 
 projects=(
@@ -34,7 +34,6 @@ projects=(
   'parallax'
   'date-formatter-cli'
   'hacker-news'
-  # 'tic-tac-toe-chatgpt-[bonus]'
 )
 projectsLength=${#projects[*]}
 

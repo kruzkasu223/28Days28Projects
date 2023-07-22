@@ -1,6 +1,10 @@
 #! /bin/bash
 
-# used this script to automate creation of all the project directory and initialize git and setup github repo
+# used this script to automate cloning of all the project repositories
+
+echo -e "\n\n\n"
+cd '/home/kruz/kruz/code/#28Days28Projects' || exit
+pwd
 
 projects=(
   'custom-drag-and-drop'
@@ -42,15 +46,23 @@ do
   then
     index="0$i"
   fi
+  repoName="$index-${projects[$i]}"
   
-  fileName="$index-${projects[$i]}"
+  sshHost="git@github-kruzkasu223:kruzkasu223"
+  repoUrl="$sshHost/$repoName.git"
+  echo -e "repoUrl ==> $repoUrl\n"
   
-  echo "git submodule add 'https://github.com/kruzkasu223/$fileName'"
-  git submodule add "https://github.com/kruzkasu223/$fileName"
+  echo -e "executing ==> git clone $repoUrl\n"
+  git clone $repoUrl
   
-  echo "git add ."
-  git add .
+  echo -e "executing ==> cd $repoName\n"
+  cd $repoName || exit
   
-  echo "git commit -m 'added submodule $fileName'"
-  git commit -m "added submodule $fileName"
+  # echo -e "executing ==> yarn\n"
+  # yarn
+  
+  echo -e "executing ==> cd '/home/kruz/kruz/code/#28Days28Projects'\n"
+  cd '/home/kruz/kruz/code/#28Days28Projects' || exit
+  
+  pwd
 done
